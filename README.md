@@ -1,5 +1,5 @@
 Hello!
-[![Habr](https://img.shields.io/badge/LinkedIn-Ilya12c-blue)](https://habr.com/ru/users/Ilya12c/)
+[![Habr](https://img.shields.io/badge/Habr-Ilya12c-blue)](https://habr.com/ru/users/Ilya12c/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Ilia-blue)](https://www.kaggle.com/techguardian)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-IliaB12-blue)](https://www.linkedin.com/in/ilia-bakalets/)
 
