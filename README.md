@@ -6,16 +6,28 @@ br
 
 Experienced in Machine Learning and Computer Vision, with over 4 years of work history. Worked with a range of areas including classical machine learning (classification, regression, clustering), computer vision (classification, regression, detection, segmentation, OCR), classical computer vision, and neural network optimization methods (distillation, quantization, pruning). Creating a 3D scene, Rec sys and more.
 
-## Public Activity
+### Public Activity
 
-### Public Speaker at Data Fest (10-11 May 2019)
+#### Public Speaker at Data Fest (10-11 May 2019)
 I had the honor of being a public speaker at Data Fest, held on 10-11 May 2019 ([fest.ai](https://fest.ai)). Invited by Vladislav Grozin, the Head of Data Science at INCYMO, a US-based MLaaS company, I delivered a speech on machine learning skills for Yandex Alice. This invitation not only acknowledged my expertise in the field but also provided me with the opportunity to share my knowledge with a wider audience.
 
-### Jury Member at "Science Day Hack" Hackathon (10-12 October 2022)
+#### Jury Member at "Science Day Hack" Hackathon (10-12 October 2022)
 I was privileged to serve as a jury member for the "Science Day Hack" Hackathon held from 10-12 October 2022. It was a rewarding experience to evaluate and contribute to the innovative projects presented during the hackathon.
 
-### Podcast Host at "AI What?"
+#### Podcast Host at "AI What?"
 As the host of my own podcast titled "AI What?" ([YouTube](https://www.youtube.com/@ai_what/)), I passionately delve into the world of Artificial Intelligence. In each episode, I invite experts in the field to discuss the latest news, advancements, and share their insights and experiences. The podcast serves as a platform to explore the diverse facets of AI.
 
-### Author of Articles on deepschool's Telegram Channel ([deep_school](https://t.me/deep_school))
+#### Author of Articles on deepschool's Telegram Channel ([deep_school](https://t.me/deep_school))
 Recognized as a Deep Learning expert, I was invited to contribute articles to the professional development Telegram channel, deepschool. My articles cover various topics related to deep learning and computer vision, catering to the interests of machine learning specialists.
+
+#### Habr (russian language)
+<!-- HABR:START -->
+- [Как подготовить PreLabeled-датасет при помощи CVAT, YOLO и FiftyOne](https://habr.com/ru/companies/magnus-tech/articles/744504/)
+- [Архитектура рекомендаций: как дать пользователю соцсети то, что ему понравится](https://habr.com/ru/companies/magnus-tech/articles/753706/)
+- [Kaggle для футболистов. Разбираем подходы призеров соревнований по детекции столкновений (5 — 3 место)](https://habr.com/ru/companies/magnus-tech/articles/750746/)
+- [Kaggle для футболистов. Разбираем подходы призеров соревнований по детекции столкновений (1 и 2 место)](https://habr.com/ru/companies/magnus-tech/articles/756628/)
+- [Влад Грозин о PhD в США, философии в Data Science, пузыре рекомендаций и голодающих геймерах](https://habr.com/ru/companies/magnus-tech/articles/759426/)
+- [Антон Мальцев про удобные NPU, Computer Vision для коботов и восстание неуклюжих машин](https://habr.com/ru/companies/magnus-tech/articles/768476/)
+- [Из фото в 3D, ч.1: геометрия формирования изображения](https://habr.com/ru/companies/magnus-tech/articles/770930/)
+- [Из фото в 3D, ч.2: калибровка камеры](https://habr.com/ru/companies/magnus-tech/articles/772534/)
+<!-- HABR:END -->
