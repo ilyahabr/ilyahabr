@@ -1,7 +1,7 @@
 Hello!
 [![Linkedin: ](https://img.shields.io/badge/-ilia-bakalets-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilia-bakalets/)](https://www.linkedin.com/in/ilia-bakalets/)
 [![Habr Badge](https://img.shields.io/badge/-Ilya12c-47CCCC?style=flat&logo=habr&logoColor=white&link=https://habr.com/ru/users/Ilya12c/)](https://habr.com/ru/users/Ilya12c/)
-[![Kaggle Badge](https://img.shields.io/badge/-techguardian-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/techguardian)](https://www.kaggle.com/techguardian)
+[![Kaggle Badge](https://www.kaggle.com/techguardian)
 
 Experienced in Machine Learning and Computer Vision, with over 4 years of work history. Worked with a range of areas including classical machine learning (classification, regression, clustering), computer vision (classification, regression, detection, segmentation, OCR), classical computer vision, and neural network optimization methods (distillation, quantization, pruning). Creating a 3D scene, Rec sys and more.
 
