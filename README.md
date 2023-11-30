@@ -1,6 +1,6 @@
 Hello!
 
-Experienced in Machine Learning and Computer Vision, with over 3 years of work history. Worked with a range of areas including classical machine learning (classification, regression, clustering), computer vision (classification, regression, detection, segmentation, OCR), classical computer vision, and neural network optimization methods (distillation, quantization, pruning). Creating a 3D scene, Rec sys and more.
+Experienced in Machine Learning and Computer Vision, with over 4 years of work history. Worked with a range of areas including classical machine learning (classification, regression, clustering), computer vision (classification, regression, detection, segmentation, OCR), classical computer vision, and neural network optimization methods (distillation, quantization, pruning). Creating a 3D scene, Rec sys and more.
 
 ## Public Activity
 
